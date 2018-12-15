@@ -1,8 +1,8 @@
 # ng-classroom Blog
 
-Este es el repositorio oficial la comunidad de Ionic en español [https://www.ion-book.com](https://www.ion-book.com).
+Este es el repositorio oficial la comunidad de Ionic en español [https://www.vue-classroom.com](https://www.vue-classroom.com).
 
-Puedes ver las formas de contribuir con nosotros [aquí](https://github.com/ion-book/ion-book.github.io/blob/master/.github/CONTRIBUTING.md).
+Puedes ver las formas de contribuir con nosotros [aquí](https://github.com/vue-classroom/vue-classroom.github.io/blob/master/.github/CONTRIBUTING.md).
 
 # Requerimientos.
 

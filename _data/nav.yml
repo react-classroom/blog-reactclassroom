@@ -5,14 +5,8 @@ menu_header:
     url: '/blog'
     target: '_self'
   - title: Cursos
-    url: 'https://www.ng-classroom.com/'
+    url: 'https://www.vue-classroom.com/'
     target: '_blank'
-# - title: Talleres
-#   url: 'https://startupers.ng-classroom.com/'
-#   target: '_blank'
-#  - title: Market
-#   url: 'https://market.ng-classroom.com'
-#   target: '_blank'
 # ==============================================================
 # Menu Footer
 menu_footer:
@@ -20,22 +14,11 @@ menu_footer:
     url: '/'
     target: '_self'
   - title: Cursos
-    url: 'https://www.ng-classroom.com/'
+    url: 'https://www.maestriajs.com/'
     target: '_blank'
   - title: Autores
     url: '/blog/authors'
     target: '_self'
-# - title: Meetups
-#  url: '/meetups/'
-# - title: Organizadores
-#   url: '/organizers/'
-#   target: '_self'
-  - title: Podcast
-    url: 'https://itunes.apple.com/us/podcast/ng-podcast/id1235127090?l=es&mt=2'
-    target: '_blank'
-# - title: Jobs
-#   url: 'https://angularjobs.com/'
-#   target: '_blank'
   - title: Codigo de Conducta
     url: 'https://github.com/ng-classroom/codigo-de-conducta'
     target: '_blank'

@@ -2,19 +2,19 @@
 # Social
 
 social_links: 
-  - url: "https://twitter.com/ion_book"
+  - url: "https://twitter.com/maestriajs"
     title: "Twiiter"
     icon: "icon-social-twitter"
-  - url: "https://www.facebook.com/ionbook/"
+  - url: "https://www.facebook.com/maestriajs/"
     title: "Facebook"
     icon: "icon-social-facebook"
   - url: "http://goo.gl/forms/ZCEc0cr3jydgK2wv1"
     title: "Slack"
     icon: "icon-slack"
-  - url: "https://www.youtube.com/channel/UCxs-DaSRmp8k23n79WjXndw"
+  - url: "https://j.mp/ytcarlos"
     title: "Youtube"
     icon: "icon-social-youtube"
-  - url: "https://www.instagram.com/ion_book"
+  - url: "https://www.instagram.com/maestriajs"
     title: "Instagram"
     icon: "icon-social-instagram-outline"
 
@@ -28,15 +28,15 @@ banner_course:
 # Banner Slack
 banner_slack:
   title: 'Únete a nuestra comunidad'
-  text: 'Únete a nuestro canal de slack y podras interactuar con toda la comunidad hispana en ionic.'
+  text: 'Únete a nuestro canal de slack y podras interactuar con toda la comunidad hispana en VueJs.'
   url: 'http://goo.gl/forms/ZCEc0cr3jydgK2wv1'
   btn_text: 'Unete'
 
 # Banner Hnagouts
 banner_hangouts:
-  title: 'No te pierdas nuestro proximo Ng-hangout'
+  title: 'No te pierdas nuestro proximo Hangout'
   text: 'Cada dos semanas invitamos a un amigo de la comunidad para hablar desde sus experiencia en estos tiempos emocionantes.'
-  url: 'https://www.youtube.com/channel/UCxs-DaSRmp8k23n79WjXndw?sub_confirmation=1'
+  url: 'https://j.mp/ytcarlos'
   btn_text: 'Ir'
 
 # ==============================================================
@@ -48,4 +48,4 @@ blog:
 # Subscribe
 subscribe:
   btn_text: 'Subscríbete'
-  success_text: 'Gracias! Ahora estas suscrito a ion-book.'
+  success_text: 'Gracias! Ahora estas suscrito a Vue-Classroom.'

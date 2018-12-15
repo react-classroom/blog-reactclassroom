@@ -1,16 +1,16 @@
 # Contribuir
 
-Gracias por tu interes en contribuir en ion-book! :tada:
+Gracias por tu interes en contribuir en vue-classroom! :tada:
 
 ## ¿Encontraste un error?
 
-Crea un [Issue](https://github.com/ion-book/ion-book.github.io/issues).
+Crea un [Issue](https://github.com/vue-classroom/vue-classroom.github.io/issues).
 
 ## ¿Tienes un propuesta para un nuevo artículo?
 
-Si tienes una idea o propuesta de un nuevo artículo, tutorial o tip, escribe la descripción y pronto lo publicaremos en ion-book.
+Si tienes una idea o propuesta de un nuevo artículo, tutorial o tip, escribe la descripción y pronto lo publicaremos en vue-classroom.
 
-Crea un [Issue](https://github.com/ion-book/ion-book.github.io/issues).
+Crea un [Issue](https://github.com/vue-classroom/vue-classroom.github.io/issues).
 
 # ¿Quieres aportar un artículo?
 
@@ -21,7 +21,7 @@ Crea un [Issue](https://github.com/ion-book/ion-book.github.io/issues).
 3. Clonar repositorio.
 
 ```
-git clone https://github.com/ion-book/ion-book.github.io.git
+git clone https://github.com/vue-classroom/vue-classroom.github.io.git
 ```
 
 ## Creando artículo
@@ -29,16 +29,16 @@ git clone https://github.com/ion-book/ion-book.github.io.git
 1. Ingresar en el directorio de trabajo.
 
 ```
-cd ion-book.github.io
+cd vue-classroom.github.io
 ```
 
 2. Crea un nuevo articulo en la carpeta *_posts*. Utiliza de guia los otros articulos para saber cuales etiquetas utilizar con Markdown.
 
 ## Creando Pull Request
 
-1. Enviar un [Pull Request](https://github.com/ion-book/ion-book.github.io/pulls).
+1. Enviar un [Pull Request](https://github.com/vue-classroom/vue-classroom.github.io/pulls).
 
-2. Cuando sea aprobado el pull request, sera publicado en [staging.ion-book.com](http://staging.ion-book.com)
+2. Cuando sea aprobado el pull request, sera publicado en [staging.vue-classroom.com](http://staging.vue-classroom.com)
 
 3. Cuando sea publicado en el Sitio, lo podras saber en [Facebook](https://www.facebook.com/ionbook/)
 
