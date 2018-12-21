@@ -14,6 +14,7 @@ google_optimize: 0
 google_cse: 0
 google_tagmanager: 0
 hello_bar_enabled: 0
+disqus_comments: 0
 
 timezone: "America/Bogota"
 

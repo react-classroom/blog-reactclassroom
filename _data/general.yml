@@ -28,8 +28,8 @@ banner_course:
 # Banner Slack
 banner_slack:
   title: 'Únete a nuestra comunidad'
-  text: 'Únete a nuestro canal de slack y podras interactuar con toda la comunidad hispana en VueJs.'
-  url: 'http://goo.gl/forms/ZCEc0cr3jydgK2wv1'
+  text: 'Únete a nuestro grupo y podras interactuar con toda la comunidad hispana de Vue.'
+  url: 'https://www.facebook.com/groups/2040670769325447/'
   btn_text: 'Unete'
 
 # Banner Hnagouts
