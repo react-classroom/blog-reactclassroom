@@ -5,7 +5,7 @@ menu_header:
     url: '/blog'
     target: '_self'
   - title: Cursos
-    url: 'https://www.vue-classroom.com/'
+    url: 'https://www.maestriajs.com/'
     target: '_blank'
 # ==============================================================
 # Menu Footer
