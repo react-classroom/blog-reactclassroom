@@ -9,7 +9,7 @@ path: 'https://www.vue-classroom.com/'
 
 pwa_enabled: 0
 ads_enabled: 0
-push_notifications: 0
+push_notifications: 1
 google_optimize: 0
 google_cse: 0
 google_tagmanager: 0
