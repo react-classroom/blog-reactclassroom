@@ -81,6 +81,8 @@ new Vue({
 
 En este tutorial asumimos que ya tienes una cuenta en [Firebase](https://firebase.google.com/) y ya has creado un Proyecto nuevo. Tambien que sabes donde encontrar la información para `inicializar` el App (Si No. Puedes ver este [link](https://firebase.google.com/docs/web/setup)).
 
+{% include blog/subscribe.html %}
+
 Ahora voy a crear un archivo `firebase.js` e inicializar nuestra App con `Firebase`.
 
 ```js

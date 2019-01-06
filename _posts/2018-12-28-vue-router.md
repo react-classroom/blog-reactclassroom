@@ -155,6 +155,8 @@ export default {
 
 En este ultimo componente observa que estamos atrapando el parametro `id` que le vamos a enviar por la URL es por esto que usamos el `this.$route.params.id`.
 
+{% include blog/subscribe.html %}
+
 adicionalmente, observa que en nuestro archivo `rutas.js` hemos agregado el tercer path de la siguiente manera:
 
 ```js

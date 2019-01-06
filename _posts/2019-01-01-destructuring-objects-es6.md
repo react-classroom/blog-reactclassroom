@@ -80,6 +80,8 @@ console.log(ig);
 
 otra cosa interesante es que digamos si queremos tener las propiedades restantes almacenadas para despues, podemos usar algo como:
 
+{% include blog/subscribe.html %}
+
 ```js
 const redes = {
   name: 'Carlos Rojas',
