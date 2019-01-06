@@ -8,6 +8,7 @@ author: carlosrojas
 tags: [vue]
 cover: "https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2018-12-20-vue-firebase%2Fcover.png?alt=media&token=1e49baed-2435-43be-b0ef-0690298383fe"
 remember: true
+editname: '2018-12-20-vue-firebase.md'
 versions:
   - title: 'Vue CLI'
     number: '3.2  .1'

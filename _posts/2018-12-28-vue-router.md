@@ -8,6 +8,7 @@ author: carlosrojas
 tags: [vue]
 cover: "https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2018-12-22-vue-router%2Fcover.png?alt=media&token=7c810142-f28d-44c6-9305-83e5b89a2bf0"
 remember: true
+editname: '2018-12-28-vue-router.md'
 versions:
   - title: 'Vue CLI'
     number: '3.2.1'
