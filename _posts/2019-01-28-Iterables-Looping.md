@@ -61,6 +61,7 @@ for(const index in data) {
 
 <amp-img width="1440" height="648" layout="responsive" src="https://firebasestorage.googleapis.com/v0/b/vueclassroom.appspot.com/o/2019-01-28-Iterables-Looping%2FScreen%20Shot%202019-01-29%20at%206.56.43%20AM.png?alt=media&token=b8b38893-2c80-4499-be58-7f1ed602292a"></amp-img>
 
+{% include blog/subscribe.html %}
 
 ```js
 const data = ['item1', 'item2', 'item3', 'item 4'];
