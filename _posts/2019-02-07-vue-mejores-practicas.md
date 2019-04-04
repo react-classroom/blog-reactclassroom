@@ -33,6 +33,8 @@ this.$emit('my-event') // instead of myEvent
 v-on:my-event
 ```
 
+{% include blog/subscribe.html %}
+
 # Evita llamar el mismo metodo en created() y en watch.
 
 Si necesitamos disparar un metodo en la inicialización de un componente y en el cambio de la propiedad, la practica comun es:
