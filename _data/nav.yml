@@ -16,6 +16,9 @@ menu_footer:
   - title: Cursos
     url: 'https://www.maestriajs.com/'
     target: '_blank'
+  - title: Podcast
+    url: 'https://podcast.maestriajs.com/'
+    target: '_blank'
   - title: Autores
     url: '/blog/authors'
     target: '_self'
