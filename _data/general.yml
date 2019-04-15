@@ -27,16 +27,16 @@ banner_course:
 # ==============================================================
 # Banner Slack
 banner_slack:
-  title: 'Únete a nuestra comunidad'
-  text: 'Únete a nuestro grupo y podras interactuar con toda la comunidad hispana de Vue.'
-  url: 'https://www.facebook.com/groups/2040670769325447/'
+  title: 'Escucha nuestro Podcast'
+  text: 'No te pierdas nuestros emocionantes episodios hablando de Javascript.'
+  url: 'https://podcast.maestriajs.com'
   btn_text: 'Unete'
 
 # Banner Hnagouts
 banner_hangouts:
   title: 'No te pierdas nuestro proximo Hangout'
   text: 'Cada dos semanas invitamos a un amigo de la comunidad para hablar desde sus experiencia en estos tiempos emocionantes.'
-  url: 'https://j.mp/ytcarlos'
+  url: 'https://www.youtube.com/channel/UCxs-DaSRmp8k23n79WjXndw?sub_confirmation=1'
   btn_text: 'Ir'
 
 # ==============================================================
