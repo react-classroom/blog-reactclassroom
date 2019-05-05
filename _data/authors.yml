@@ -1,9 +1,9 @@
 - id: "carlosrojas"
   name: Carlos Rojas
   url: "/blog/authors/carlosrojas"
-  avatar: "http://i.imgur.com/ecNB0is.png"
+  avatar: "/images/authors/carlosrojas.jpg"
   website: "https://linktr.ee/carlosrojas_o"
-  bio: "Techno-Philosopher 🤔 + HS Gamer 🎮 + Book Writer ⌨️"
+  bio: "Me gusta creer que la programación mejora la calidad de vida de las Personas. Soy desarrollador Frontend."
   country: "Colombia"
   facebook_url: 'https://www.facebook.com/carlosrojas84/'
   social_links:
