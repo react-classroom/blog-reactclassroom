@@ -1,6 +1,6 @@
 {
-    "name": "Vue Classroom",
-    "short_name": "Vue Classroom",
+    "name": "React Classroom",
+    "short_name": "React Classroom",
     "icons": [{
         "src": "/logo_192_by_192.png",
         "sizes": "192x192",

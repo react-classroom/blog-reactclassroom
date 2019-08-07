@@ -1,20 +1,20 @@
-title: "Vue-classroom, Crea Apps con Vue en cualquier plataforma."
-description: "Aprende Vue, Ionic, Firebase, Nativescript y desarrolla increibles apps para Android y IOS."
-keywords: "vue,html5,javascript,mobile,ionic,hybrid,phonegap,cordova,native,ios,android,curso de vue, aprender vue"
+title: "React-classroom, Crea Apps con React en cualquier plataforma."
+description: "Aprende React, Ionic, Firebase, Nativescript y desarrolla increibles apps para Android y IOS."
+keywords: "react,html5,javascript,mobile,ionic,hybrid,phonegap,cordova,native,ios,android,curso de react, aprender react"
 
 baseurl: ""
 urlblog: '/blog'
 cover: "/images/cover.jpg"
-path: 'https://www.vue-classroom.com/'
+path: 'https://www.react-classroom.com/'
 
 pwa_enabled: 0
 ads_enabled: 0
-push_notifications: 1
+push_notifications: 0
 google_optimize: 0
 google_cse: 0
 google_tagmanager: 0
-hello_bar_enabled: 1
-disqus_comments: 1
+hello_bar_enabled: 0
+disqus_comments: 0
 
 timezone: "America/Bogota"
 
