@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Tutoriales
-category: vuejs
-permalink: /blog/vuejs/
+category: react
+permalink: /blog/react/
 date: 2017-05-01
 ---
