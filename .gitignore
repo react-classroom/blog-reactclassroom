@@ -1,4 +1,5 @@
 _site
-.sass-cache
 firebase-debug.log
+.sass-cache/
 .firebase
+.jekyll-cache

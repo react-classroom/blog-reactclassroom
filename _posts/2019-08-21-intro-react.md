@@ -63,8 +63,7 @@ Como dijimos anteriormente `React` es solo una libreria que podemos utilizar en 
 Para comenzar simplemente ejecutamos.
 
 ```
-$ npm install -g yarn
-$ npx create-react-app my-react-app
+$ npm init react-app my-react-app
 ```
 
 y nos debe crear un directorio con nuestro proyecto `my-react-app`. Entonces, vamos a el y ejecutamos.
