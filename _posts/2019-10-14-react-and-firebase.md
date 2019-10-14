@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducción a React"
+title: "Conectando React con Firebase"
 date: 2019-10-14
 categories: reactjs
 author: carlosrojas
